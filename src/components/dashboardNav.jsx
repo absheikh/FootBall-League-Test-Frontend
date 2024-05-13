@@ -16,7 +16,7 @@ const DashboardNav = () => {
       sticky="top"
     >
       <Container>
-        <Navbar.Brand href="/">Dashboard</Navbar.Brand>
+        <Navbar.Brand href="/dashboard">Dashboard</Navbar.Brand>
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
         <Navbar.Collapse id="responsive-navbar-nav">
           <Nav className="me-auto">
